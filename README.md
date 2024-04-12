@@ -3,7 +3,7 @@
 
 Original code is from HAZI TECH. I modified the code, add bar mode and peak hold.
 
-I build this using spare Arduino Nano and MAX7219 matrix display which I have been using in my previous DIY. So I just need to buy RTC DS3231 and other small parts for this.
+I build this using spare Arduino Nano and MAX7219 matrix display which I have been using in my previous DIY. So I just need to buy small parts for this.
 
 # Schematics
 ![Arduino_SpectrumAnalyzer_Schematics_bb](https://github.com/ChrisSuryanto/ArduinoSAPH/assets/146957789/4aff2e46-4199-4af0-8fc6-2cdde6749a92)
