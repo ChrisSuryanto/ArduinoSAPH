@@ -9,4 +9,5 @@ I build this using spare Arduino Nano and MAX7219 matrix display which I have be
 ![Arduino_SpectrumAnalyzer_Schematics_bb](https://github.com/ChrisSuryanto/ArduinoSAPH/assets/146957789/4aff2e46-4199-4af0-8fc6-2cdde6749a92)
 
 Diode on VCC line is 1N4007, or any other standard diode, just for protection, so 5V pin on Arduino will function as supply input only. LED matrix will be powered from external supply only, not from arduino's 5v pin, thanks to diode's 1 way current direction characteristics.
+
 If audio signal not powerful enough, add audio preamp circuit. Just remember to add C3 and R6 for noise suppression.
